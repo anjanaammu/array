@@ -1,0 +1,1 @@
+//arraytypes: push,pop, shift, unshift splics slice join reverse concat map reduce filter find findindex includes isarray  at  some every from of
